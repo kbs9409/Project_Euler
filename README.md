@@ -1,2 +1,2 @@
 # Project_Euler
-Proejct Euler by Ruby
+Project Euler by Ruby
